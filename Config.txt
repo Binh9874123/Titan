@@ -1,0 +1,3 @@
+INPUT = in.txt
+OUTPUT = out.txt
+BUFFER = 10
